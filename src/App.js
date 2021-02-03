@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Breaking Changes! Whoa!
+          Don't need to do git push -u origin main, only need to do git push for new changes.
         </p>
       </header>
     </div>
